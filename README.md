@@ -11,4 +11,4 @@ Foi realizada uma analise sobre os dados referentes à cidade Toronto do Canadá
 [[Link para o projeto completo](https://github.com/JFernandees/Data_science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb))
 
 **Link para me acharem:**
-* [LinkedIn](linkedin.com/in/jonas-fernandes-menezes-610491251)
+* [LinkedIn](https://www.linkedin.com/in/jonas-fernandes-menezes-610491251/)
