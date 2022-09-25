@@ -8,7 +8,7 @@
 
 Foi realizada uma analise sobre os dados referentes à cidade Toronto do Canadá, e ver quais insights poderiam ser extraídos a partir de dados brutos.
 
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+[[Link para o projeto completo](https://medium.com/@rafaelnduarte](https://github.com/JFernandees/Data_science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb))
 
 **Link para me acharem:**
 * [LinkedIn](linkedin.com/in/jonas-fernandes-menezes-610491251)
