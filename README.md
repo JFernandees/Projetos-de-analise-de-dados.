@@ -4,11 +4,15 @@
   <img src="https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
-## Meu Primeiro Projeto
-
+## Meus Projetos
+### 1 - Análise de dados do Airbnb
 Foi realizada uma analise sobre os dados referentes à cidade Toronto do Canadá, e ver quais insights poderiam ser extraídos a partir de dados brutos.
 
 [[Link para o projeto completo](https://github.com/JFernandees/Data_science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb))
+
+### 2 - Análise dos dados do Covid-19
+
+[[Link para o projeto completo](https://github.com/JFernandees/Data_science/blob/main/0_Projeto_Panorama_do_COVID_19_no_Brasil.ipynb))
 
 **Link para me acharem:**
 * [LinkedIn](https://www.linkedin.com/in/jonas-fernandes-menezes-610491251/)
