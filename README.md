@@ -15,7 +15,7 @@ Foi realizada uma análise exploratória dos dados de uma rede de laboratórios 
 A análise desses dados permitiu identificar as características que contribuíram para o sucesso dos laboratórios de maior lucro, tais como a localização em áreas com alta densidade populacional e renda média-alta.
 Com base nesses dados, foram identificados os ZIP CODES com características semelhantes, que foram recomendados para a instalação dos novos laboratórios da rede. É importante destacar que essa análise exploratória fornece uma base inicial para a tomada de decisão, e que outras informações relevantes, como a disponibilidade de imóveis, concorrência local, e políticas de incentivo à instalação de empresas, também devem ser consideradas.
 [[Link para o projeto completo](https://github.com/JFernandees/Data_science/blob/main/Case_Jonas_Fernandes.ipynb))
-[[Link para o dashboard](https://github.com/JFernandees/Data_science/blob/main/dash%20case.pdf))
+[[Link para o dashboard](https://public.tableau.com/app/profile/jonas.menezes/viz/elogroup/Histria1?publish=yes))
 
 <p align="center">
   <img src="https://img.freepik.com/vetores-gratis/medicos-e-analises-prescritivas-personalizadas_335657-1882.jpg?w=996&t=st=1679600253~exp=1679600853~hmac=d153092c815ffbe8596dd2bac6ff070dd25f94ceda3c4dc65e6eba42c18820ae" alt="imagem maneira relacionada ao projeto"height=600px >
